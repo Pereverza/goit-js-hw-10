@@ -1,5 +1,4 @@
 import flatpickr from 'flatpickr';
-import iziToast from 'izitoast';
 
 const inputDateTimeEl = document.querySelector('#datetime-picker');
 const startBtn = document.querySelector('button[data-start]');
